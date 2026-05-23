@@ -2,6 +2,7 @@ package net.kazyavka19.shkolotastudios;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kazyavka19.shkolotastudios.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,6 +12,6 @@ public class ShkolotaStudios implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItems.registerModItems();
 	}
 }
