@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "shkolotastudios",
+	"version": "${version}",
+	"name": "Shkolota Studios",
+	"description": "lowkenuinely just adding a couple music studio related blocks",
+	"authors": [
+		"kazyavka19"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/kazyavka19/Shkolota-Studios-Mod-1.21.10"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/shkolotastudios/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.kazyavka19.shkolotastudios.ShkolotaStudios"
+		],
+		"fabric-datagen": [
+			"net.kazyavka19.shkolotastudios.ShkolotaStudiosDataGenerator"
+		],
+		"client": [
+			"net.kazyavka19.shkolotastudios.ShkolotaStudiosClient"
+		]
+	},
+	"mixins": [
+		"shkolotastudios.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
