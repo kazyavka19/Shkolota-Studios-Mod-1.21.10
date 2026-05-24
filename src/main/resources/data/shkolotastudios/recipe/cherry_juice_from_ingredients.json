@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:sugar",
+    "minecraft:water_bucket",
+    "minecraft:sweet_berries"
+  ],
+  "result": {
+    "id": "shkolotastudios:cherry_juice",
+    "count": 1
+  }
+}

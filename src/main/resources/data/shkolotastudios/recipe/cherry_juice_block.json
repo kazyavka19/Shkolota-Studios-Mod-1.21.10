@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": "shkolotastudios:cherry_juice"
+  },
+  "result": {
+    "id": "shkolotastudios:cherry_juice_block",
+    "count": 1
+  }
+}

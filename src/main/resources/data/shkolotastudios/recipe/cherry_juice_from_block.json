@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "shkolotastudios:cherry_juice_block"
+  ],
+  "result": {
+    "id": "shkolotastudios:cherry_juice",
+    "count": 9
+  }
+}
