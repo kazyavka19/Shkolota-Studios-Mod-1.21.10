@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "shkolotastudios:block/cherry_juice_block"
+  }
+}
