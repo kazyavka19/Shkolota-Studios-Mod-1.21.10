@@ -1,4 +1,6 @@
 {
   "item.shkolotastudios.cherry_juice": "Cherry Juice",
-  "item.shkolotastudios.cherry_juice_block": "Block of Cherry Juice "
+  "item.shkolotastudios.cherry_juice_block": "Block of Cherry Juice",
+  "itemgroup.shkolotastudios.shkolota_item_group": "Shkolota Studios Items",
+  "itemgroup.shkolotastudios.shkolota_block_group": "Shkolota Studios Blocks"
 }
